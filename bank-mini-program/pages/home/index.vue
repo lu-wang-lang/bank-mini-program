@@ -1,6 +1,7 @@
 <template>
   <view class="home-container">
     123
+    <span class="iconfont icon-chabei"></span>
   </view>
 </template>
 
