@@ -29,23 +29,4 @@
 			}
 		]
 	}
-	// "tabBar": {
-	// 	"color": "#7A7E83",
-	// 	"selectedColor": "#00D789",
-	// 	"backgroundColor": "#FFFFFF",
-	// 	"list": [
-	// 		{
-	// 			"pagePath": "pages/home/index",
-	// 			"text": "发现",
-	// 			"iconPath": "static/img/tabbar/discover.png",
-	// 			"selectedIconPath": "static/img/tabbar/discover_active.png"
-	// 		},
-	// 		{
-	// 			"pagePath": "pages/index/index",
-	// 			"iconPath": "static/img/tabbar/study.png",
-	// 			"selectedIconPath": "static/img/tabbar/study_active.png",
-	// 			"text": "学习"
-	// 		}
-	// 	]
-	// }
 }
